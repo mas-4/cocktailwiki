@@ -1,0 +1,137 @@
+@import url('//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+$bp0:       1200px;
+$bp1:       900px;
+$bp2:       700px;
+$bp3:       500px;
+
+/* * * * * * * * * * * * *
+ *  Nord Color Variables *
+ * * * * * * * * * * * * */
+
+/* For details see https://www.nordtheme.com/docs/colors-and-palettes */
+
+/* Polar Night Palette */
+$nord0:     #2e3440;
+$nord1:     #3B4252;
+$nord2:     #434C5E;
+$nord3:     #4C566A;
+
+/* Snow Storm */
+$nord4:     #D8DEE9;
+$nord5:     #E5E9F0;
+$nord6:     #ECEFF4;
+
+/* Frost */
+$nord7:     #8FBCBB;
+$nord8:     #88C0D0;
+$nord9:     #81A1C1;
+$nord10:    #5e81ac;
+
+/* Aurora */
+$nord11:    #BF616A;
+$nord12:    #D08770;
+$nord13:    #EBCB8B;
+$nord14:    #A3BE8C;
+$nord15:    #835783;
+
+body {
+    font-family: EB Garamond;
+    font-size: 20px;
+}
+
+.body {
+    width: 50%;
+    margin: 0 auto;
+
+    @media (max-width: $bp0) {
+        width: 80%;
+    }
+    @media (max-width: $bp2) {
+        width: 90%;
+        padding: 1rem;
+    }
+    @media (max-width: $bp3) {
+        width: 100%;
+    }
+}
+
+.title {
+    font-family: Inconsolata;
+    font-size: 12px;
+    font-weight: light;
+    color: $nord3;
+}
+
+p, ul, ol {
+    font-size: 1.5rem;
+}
+ul a {
+    font-family: Hack;
+    font-size: 2rem;
+}
+h1 {
+    font-size: 3rem;
+}
+h2 {
+    font-size: 2.5rem;
+}
+pre {
+    font-family: Hack;
+    background-color: $nord6;
+    padding: 1rem;
+    code {
+        border: 0;
+        padding: 0;
+        line-height: 2rem;
+    }
+}
+code {
+    font-family: Hack;
+    background-color: $nord6;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+    border: 1px solid $nord7;
+    font-size: 1.2rem;
+}
+
+table {
+    margin: 1rem auto;
+    font-family: Hack;
+    border-collapse: collapse;
+    border: 1px solid $nord3;
+}
+th {
+    background-color: $nord7;
+    padding: 1rem;
+    text-align: center;
+}
+tr:nth-child(even) {background-color: $nord4} 
+td {
+    padding: 1rem;
+    border: 1px solid black;
+}
+
+a {
+    color: $nord10;
+    text-decoration: none;
+    &:hover {
+        color: $nord8;
+    }
+    &:visited {
+        color: $nord15;
+    }
+}
+blockquote {
+    font-style: italic;
+    color: $nord3;
+    padding: 1rem;
+    border-radius: 5px;
+    text-indent: 2rem;
+    margin: 0;
+    padding: 0.5rem 1rem;
+    & p {
+        margin: 0;
+    }
+}
