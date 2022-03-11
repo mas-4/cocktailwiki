@@ -72,8 +72,8 @@ yet.
 
 ## Miscellanea
 
-- A great resource for cocktail party themed playlists TODO link
-- My cocktail party playlist TODO link
+- [Mixed Drink Mixtape](https://open.spotify.com/user/izmapwt2cakyycohkmxoi1su8)
+- [My cocktail party playlist](https://open.spotify.com/playlist/1dUdA7pxOurugE2WktN5OY)
 
 ---
 
@@ -102,9 +102,4 @@ can keep adding on.
   (e.g. tonic).
 - [Flip](flip.md): Spirit or fortified wine and a rich ingredient.
 - [Tiki](tiki.md): Basically punch.
-
----
-
-## Cocktails to try
-
-#cocktails
+- Finally, my own inventions, [Standingwater's Own](standingwaters_own.md)

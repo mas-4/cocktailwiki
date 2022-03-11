@@ -84,13 +84,4 @@ style variant, see [negroni](negroni.md)
 - Garnish: 1 lemon twist
 
 
-## Standingwater Martini
-
-- 2 oz. London Dry
-- 1 oz. Cocchi Americano
-- 0.25 oz. Peaty Scotch (Ardbeg 10)
-- 2 dashes Feegan's Orange Bitters
-- Mist of Absinthe
-- Garnish: Lemon peel or Orange Peel
-
 #cocktails

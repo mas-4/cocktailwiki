@@ -20,7 +20,7 @@ The first thing I recommend is use a good sweet vermouth. See my page on
 [vermouths](spirits/vermouths.md) to help get an idea of what you'd like, but
 the 3 I've liked the most over the years are Dolin Rouge, Carpano Antica, and
 Cocchi Vermouth di Torino. I used to strictly use Dolin (\$14 dollars near me)
-but I now stick to Cocchi. Carpon is something I splurge on occasionally, but I
+but I now stick to Cocchi. Carpano is something I splurge on occasionally, but I
 find it ever so slightly overpowering.
 
 I can't emphasize enough, the vermouth makes or breaks this drink, more so than

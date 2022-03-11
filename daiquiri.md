@@ -23,7 +23,7 @@ Shake over ice, double strain into chilled glass.
 
 ## Bern's Banana Daiquiri
 This is technically a Sidecar with the Giffard, but fuck it, that sounds stupid
-since it's always been called a Daiquiry.
+since it's always been called a Daiquiri.
 
 - 1 oz. spiced rum
 - .75 oz. Giffard Banana
