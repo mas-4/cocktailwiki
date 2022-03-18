@@ -191,7 +191,7 @@ TODO
 I recommend just buying this from Monin. It's good enough and Orgeat is not the
 friendliest to shelf stability if its not preservative laden.
 
-## Flower Power
+## Wildflower Syrup
 
 - 250 ml water
 - 500 ml sugar

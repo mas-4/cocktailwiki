@@ -14,7 +14,7 @@
 - 0.5 oz. Violet Liqueur (Tempus Fugit Crème de Violette)
 - 0.5 oz. Italicus
 - 0.25 oz. Hibiscus Berry Cordial
-- 0.25 oz. [Flower Power](syrups.md#Flower%20Power)
+- 0.25 oz. [Wildflower Syrup](syrups.md)
 - 2 dashes Lavender Bitters
 - 3 drops Rose Water
 - 3 drops Orange Blossom water
