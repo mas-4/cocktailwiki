@@ -69,7 +69,6 @@ Stir over ice, serve in a double rocks glass.
 **_Variant (Johnny Silverhand from Cyberpunk 2077): add a shot of Pacifico or
 some other cerveza._**
 
-
 ## Chrysanthemum
 
 > A low-proof Old-Fashioned that doesn't contain a base spirit, sugar-based
@@ -112,5 +111,18 @@ Stir in mixing glass, strain into coupe, garnish with orange
 Stir, strain into a frozen double rocks glass with no ice. Express the lemon
 peel and then discard.
 
-#cocktails
+## Dot (1937 Café Royal)
 
+I literally don't know how to categorize the drink, I think it kind of fits
+here. Adapted from
+[Difford's Guide](https://www.diffordsguide.com/cocktails/recipe/11388/dot-1937-cafe-royal),
+which was adapted from "G. Matthews" in W. J. Tarling's 1937 The Café Royal
+Cocktail Book.
+
+- 1.5 oz. Dry Gin
+- 0.75 oz. Oloroso Sherry
+- 0.75 oz. Giffard Abricot du Rousillon
+- 0.25 oz. Orange Curaçao
+- Garnish: orange zest twist
+
+#cocktails

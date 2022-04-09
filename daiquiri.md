@@ -85,4 +85,22 @@ Tastes like honey, better Bee's Knees
 
 Shake, double strain, serve up.
 
+# Monte Cassino
+
+- 3/4 oz. rye
+- 3/4 oz. Bénédictine
+- 3/4 oz. Yellow Chartreuse
+- 3/4 oz. lemon juice
+- Garnish: lemon twist
+
+# Sunflower
+
+[from @ratkins](https://www.reddit.com/r/cocktails/comments/tumm5n/sunflower_supercharged/)
+
+- 1 oz. London Dry Gin
+- 3/4 oz. Pierre Ferrand Dry Curaçao
+- 3/4 oz. St. Germain
+- 3/4 oz. lemon juice
+
 #cocktails
+

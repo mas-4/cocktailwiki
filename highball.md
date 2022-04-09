@@ -71,4 +71,16 @@ Get two pint glasses, mix in one of them and fill with ice. Pour back and forth
 between the pint glasses until chilled. Best served in a rocks glass on a large
 rock with a floral celery stalk.
 
+## Dried Meadow Flower
+
+From [Difford's Guide](https://www.diffordsguide.com/cocktails/recipe/3584/dried-meadow-flower)
+
+- 1.5 oz. Reposado
+- 1 oz. St Germain
+- 0.5 oz. Suze
+- 0.5 oz. lemon juice
+- Garnish: Lemon slice & bouquet of edible flowers
+
+Fill to top with soda
+
 #cocktails
