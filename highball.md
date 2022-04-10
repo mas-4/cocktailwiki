@@ -73,7 +73,8 @@ rock with a floral celery stalk.
 
 ## Dried Meadow Flower
 
-From [Difford's Guide](https://www.diffordsguide.com/cocktails/recipe/3584/dried-meadow-flower)
+From
+[Difford's Guide](https://www.diffordsguide.com/cocktails/recipe/3584/dried-meadow-flower)
 
 - 1.5 oz. Reposado
 - 1 oz. St Germain

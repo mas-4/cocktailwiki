@@ -34,10 +34,10 @@ N.B. Some recipes call for a tsp. Just sub a barspoon. Damn jerks.
 - [Liquor.com's Recipes](https://www.liquor.com/cocktail-and-other-recipes-4779343):
   These are usually my go to recipes. They're simple, straightforward, and
   easily modifiable.
-- [Difford's Guide](https://www.diffordsguide.com): Difford's is about as good as
-  Liquor.com but they have a really annoying tendency of using non quarter ounce
-  measures, like 2/3 oz. or 4/5 oz. That can be infuriating and I just round or
-  hit a half way point in my jigger.
+- [Difford's Guide](https://www.diffordsguide.com): Difford's is about as good
+  as Liquor.com but they have a really annoying tendency of using non quarter
+  ounce measures, like 2/3 oz. or 4/5 oz. That can be infuriating and I just
+  round or hit a half way point in my jigger.
 
 ### Books
 
@@ -103,3 +103,55 @@ can keep adding on.
 - [Flip](flip.md): Spirit or fortified wine and a rich ingredient.
 - [Tiki](tiki.md): Basically punch.
 - Finally, my own inventions, [Standingwater's Own](standingwaters_own.md)
+
+## Inbox
+
+### Ranch Water
+
+From Difford's Guide
+
+- 1 1/2 fl oz Patrón Silver blanco tequila
+- 3/4 fl oz Lime juice (freshly squeezed)
+- 1/3 fl oz Triple sec liqueur (40%)
+- 1/3 fl oz Agave syrup
+- 4 drop Difford's Saline Solution (or ½ pinch salt)
+- 2 1/2 fl oz Thomas Henry Soda Water
+
+### Mezcal Dante
+
+From Difford's Guide
+
+- 3 fresh Basil leaves
+- 1 fl oz Del Maguey VIDA mezcal
+- 1/2 fl oz Patrón Silver blanco tequila
+- 1/3 fl oz Green Chartreuse liqueur
+- 1/4 fl oz Mentzendorff Kümmel liqueur (Aquavit)
+- 1/3 fl oz Agave syrup
+- 2/3 fl oz Lime juice (freshly squeezed)
+
+### A Rose By Any Other Name
+
+https://eatsmarter.com/recipes/rose-petal-liqueur-0
+
+- 2/3 fl oz Rémy Martin 1738 Cognac
+- 5/6 fl oz Martini Rosso sweet vermouth
+- 1/3 fl oz Rose petal liqueur
+- 1/6 fl oz Crème de violette liqueur
+- 3 drop Bob's Chocolate bitters
+- Garnish: Turkish Delight, grated chocolate
+
+### Last of the Oaxacans
+
+- 3/4 fl oz Del Maguey VIDA mezcal
+- 3/4 fl oz Luxardo Maraschino liqueur
+- 3/4 fl oz Green Chartreuse liqueur
+- 3/4 fl oz Lime juice (freshly squeezed)
+
+### Savoy Special No.1
+
+- 2 fl oz Rutte Dry Gin
+- 1 fl oz Noilly Prat Extra Dry
+- 1/24 fl oz Giffard Grenadine syrup
+- 1 dash La Fée Parisienne absinthe
+
+#cocktails

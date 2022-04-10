@@ -30,13 +30,13 @@ This is a kitchen sink cocktail, named for the coiner of "Flower Power"
 
 ## Aztec Old Fashioned
 
-Standingwater riff
+Standingwater riff, turns out the chocolate bitters are a pretty common idea,
+but no one has tried the spice and lime acid yet!
 
-- 1.5 oz. El Tesora Reposado Tequila
-- 0.5 oz. Del Maguey San Luis Del Rio Mezcal
+- 1.5 oz. Reposado Tequila
+- 0.5 oz. Mezcal
 - 0.25 oz. Agave Nectar
-- 2 dashes Angostura
-- 1 dash Bittermens Xocolotl
+- 3 dash Bittermens Xocolotl
 - 1 dash Bittermens Habanero Shrub
 - 4-5 drops [lime acid](acids.md)
 - Garnish: 1 orange twist
