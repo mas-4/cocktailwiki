@@ -116,6 +116,8 @@ really smooth.
 - Roku: This is pushed a lot in marketing, and its cheap. It's very citrus
   forward, so if that's your thing, it's worth a shot. If you're not into LD, or
   even gin, this might change your mind.
+- Mahae Gin: Not enjoying this one, tastes off to me. I think I'm getting to be
+  such an LD drinker abnormal gins are not working for me.
 
 # Old Tom
 
@@ -155,3 +157,4 @@ botanicals outside of the convention, often infusion gins.
 - Tangueray Sevilla Orange: For a while this was my go to in a Negroni. I loved
   it. I fell out of love with orangey, infusion gins so I haven't bought it in a
   while.
+- Milk & Honey Levantine Gin: The hyssop is very off putting.
