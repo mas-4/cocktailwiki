@@ -83,5 +83,15 @@ style variant, see [negroni](negroni.md)
 - 2 dashes D&C House Orange (see [bitters](bitters.md))
 - Garnish: 1 lemon twist
 
+## Spicy Manhattan
+
+From Difford: https://www.diffordsguide.com/cocktails/recipe/8745/spicy-manhattan
+
+I disabled JavaScript to copy this recipe, and Simon, if you ever read this, eat shit. You make great cocktails but you don't understand copyright. I shouldn't even attribute this to you for being such a twat. Also, what the hell is with all your third ounce measurements? Who does that? Who even has a jigger with a third ounce measure? My dog just died and I need something spicy. Stop being a dick.
+
+- 1 1/2 fl oz  [Straight rye whiskey (100 proof / 50% alc./vol.)](https://www.diffordsguide.com/beer-wine-spirits/1384/rittenhouse-bottled-in-bond)
+- 1 fl oz [Martini Rosso sweet vermouth](https://www.diffordsguide.com/beer-wine-spirits/223/martini-rosso-vermouth)
+- 1/2 fl oz  [Chili liqueur](https://www.diffordsguide.com/beer-wine-spirits/3983/ancho-reyes)
+- 2 dash  [Boker's bitters](https://www.diffordsguide.com/beer-wine-spirits/6253/the-bitter-truth-bogarts-bitters)
 
 #cocktails
